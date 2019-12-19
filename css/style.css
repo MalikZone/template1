@@ -1,0 +1,28 @@
+.content1{
+  padding-top: 5%;
+}
+
+.content1 h6{
+  opacity: .5;
+}
+
+.content1 .par1{
+  text-align: justify;
+  padding-top: 5%;
+}
+
+.content1 .par2{
+  text-align: justify;
+}
+
+.content2 {
+  padding-top: 20px;
+}
+
+.card p{
+  text-align: justify;
+}
+
+.card h5 a{
+  text-decoration: none;
+}
