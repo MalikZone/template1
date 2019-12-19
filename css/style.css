@@ -1,3 +1,8 @@
+nav{
+  background: cornflowerblue;
+
+}
+
 .content1{
   padding-top: 5%;
 }
@@ -25,4 +30,32 @@
 
 .card h5 a{
   text-decoration: none;
+}
+
+.footer{
+  margin-top: 30px;
+  height: 20vh;
+}
+
+#confoot{
+  border-top: 1px solid grey;
+}
+
+#foot1,
+#foot2{
+padding-top: 5%;
+}
+
+.footer p{
+  opacity: .4;
+  font-size: 12px;
+}
+
+.footer .fa-twitter,
+.fa-facebook-square,
+.fa-instagram,
+.fa-pinterest,
+.fa-vimeo-v{
+  color: cornflowerblue;
+  margin-left: 10px;
 }
